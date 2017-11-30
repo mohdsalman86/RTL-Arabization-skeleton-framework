@@ -1,8 +1,8 @@
-# Skeleton Arabicized & RTL support
-# نسخة معربة من سكيلتي ن مع خاصية RTL - Demmahom.info 
+# Skeleton Arabicized & RTL support #
+# نسخة معربة من سكيلتين مع خاصية RTL - Demmahom # 
 
 
-*Skeleton Arabicized* is a version of Demo Landing Page template but with Arabic language full RTL support and capability.
+*Skeleton Arabicized* is a version of Demo Landing Page template but with Arabic language full RTL support and capability..
 
 To discover *Skeleton*, check out the [Skeleton web site ](http://getskeleton.com/) and the other for original version - English  [Landing Page](https://github.com/dhg/Skeleton/tree/gh-pages).
 
